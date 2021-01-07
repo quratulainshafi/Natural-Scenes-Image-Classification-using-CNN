@@ -6,6 +6,12 @@ The dataset used here is the Intel Image Classification that contains images of 
 This work shows that deep learning architectures can be used to perform image recognition and classification. Moreover, the efficiency of the models can be improved by applying different techniques, including changing different hyperparameters of CNN, data augmentation and transfer learning.
 
 Base Model
+![fig1](https://user-images.githubusercontent.com/73491668/103924857-810c0880-5138-11eb-8074-82378e731fd7.JPG)
+
+In this model the number of layers and size of filter kernels are increased. Moreover batch normalization is introduced in between layers, which further
+improves the accuracy. 
+
+Optimized Model
 
 
 
