@@ -12,6 +12,10 @@ In this model the number of layers and size of filter kernels are increased. Mor
 improves the accuracy. 
 
 Optimized Model
+![fig2](https://user-images.githubusercontent.com/73491668/103925140-e7912680-5138-11eb-943e-69b40e23705d.JPG)
+
+Train Accuracy and Loss
+
 
 
 
